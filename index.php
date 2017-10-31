@@ -2,9 +2,7 @@
 <?php
     //create the Jukebox object
     $theJukebox = new jukebox();
-?>
-
-<!doctype html>
+?><!doctype html>
 <html lang="en">
   <head>
     <title>Music Jukebox</title>
